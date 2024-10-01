@@ -11,7 +11,7 @@ const TranslationComponent = () => {
   };
 
   const translateText = async () => {
-    const apiKey = 'AIzaSyBZ2Z_sY_qMvCenzukWpU7Bcllj9kG_c9U'; // Add your Google Translate API key here
+    const apiKey = ''; // Add your Google Translate API key here
     const url = ` https://translation.googleapis.com/language/translate/v2`;
 
     try {
